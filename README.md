@@ -1,9 +1,9 @@
 # Planning
-Place to plan things yo /n
+Place to plan things yo 
 In here needs to be:
-Rules for git
-learning objectives
-wireframes
-user stories
-schema
-stretches
+1. Rules for git,
+2. learning objectives,
+3. wireframes,
+4. user stories,
+5. schema,
+6. stretches.
