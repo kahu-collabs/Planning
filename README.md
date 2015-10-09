@@ -7,3 +7,4 @@ In here needs to be:
 4. user stories, (done)
 5. schema,
 6. stretches.
+7. MVP.
