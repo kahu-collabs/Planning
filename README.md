@@ -1,6 +1,6 @@
 # Planning
-Place to plan things yo
-In here needs to be:
+##Place to plan things yo
+###In here needs to be:
 1. Rules for git, (done)
 2. learning objectives,
 3. wireframes,
